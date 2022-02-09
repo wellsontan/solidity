@@ -1,0 +1,30 @@
+{
+  "name": "foodchain_off-chain_db---express_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "db-init": "npx knex migrate:latest",
+    "db-reset": "npx knex migrate:rollback && npx knex migrate:latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/God-T/Foodchain_Off-chain_DB---Express_Nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/God-T/Foodchain_Off-chain_DB---Express_Nodejs/issues"
+  },
+  "homepage": "https://github.com/God-T/Foodchain_Off-chain_DB---Express_Nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.95.7",
+    "sqlite3": "^5.0.2"
+  }
+}

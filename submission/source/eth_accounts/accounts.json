@@ -1,0 +1,16 @@
+{
+    "trusted_server": {
+        "pri_key": "5ac3d8deb506ac01f71fa55ce7151b8b0973d2a9a7dab80b36479afe61564410"
+    },
+    "user": {
+        "pri_key": "ab2920370e71f8033ca6974255ea1c378da89131175a56f62c86009698850a54"
+    },
+    "FARMER": {
+        "pri_key": "4ddeb64fdc342c3a932c07b418861c04c0701a20bb0529a6cb098e159d26094a"
+    },
+    "certifier": {
+        "pri_key": "fdf8abfbb313fb8fbc55dd6577b35900952a45519db2c83d635a25c2b197c6ee"
+    }
+
+}
+

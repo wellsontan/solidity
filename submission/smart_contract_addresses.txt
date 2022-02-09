@@ -1,0 +1,4 @@
+All these SCs and oracle are deployed onto Ropsten Testnet 
+Oracle: 0x4613345781a6e96588Ad7DF17046EACA44695ED6
+Beef Smart Contract: 0xC7C165D8E2d94c3239F49883D0c85ec8F2cCA071
+Beef Sign: 0xd65c5cFFC704A240CC82798992fed6F69072f70D
